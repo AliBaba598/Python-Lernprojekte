@@ -1,2 +1,2 @@
 # Python-Lernprojekte
-Dieser Ordner wird alle Projekte, die ich in der Sprache Python, schreibe beinhalten.
+Dieser Ordner wird alle Projekte, die ich in der Sprache Python schreibe beinhalten.
